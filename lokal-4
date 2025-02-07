@@ -49,7 +49,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
  
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
  
 #EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://iili.io/JMp3URR.png" group-title="NASIONAL",NET.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -102,7 +103,7 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
  
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL NEWS",tvOne
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch109.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
  
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="NATIONAL NEWS",iNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
